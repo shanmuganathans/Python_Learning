@@ -1,0 +1,7 @@
+get input from the user and write into the file
+read the file and check the 1st line start with "The" or not
+Write the program to the get the count of the lines
+create the list using every lines first word
+create the dict using file read 
+get the count of vowels in the file as dictionary
+Appended line new 2

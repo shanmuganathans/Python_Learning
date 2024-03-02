@@ -1,6 +1,0 @@
-Python allows you to read, write and delete files
-    Use the function open("filename","w+") to create a file. 
-    The + tells the python interpreter to open file with read and write permissions.
-    To append data to an existing file use the command open("Filename", "a")
-    Use the read function to read the ENTIRE contents of a file
-    Use the readlines function to read the content of the file one by one.
